@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['base_url'] = 'http://localhost/webedukasi';
+$config['base_url'] = 'http://localhost/edukasi';
 $config['fonts_path']= 'assets/fonts/';
 
 /*
